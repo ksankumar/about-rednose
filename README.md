@@ -2,8 +2,8 @@
    <a href="https://drive.google.com/file/d/1fVcO0_O8wN-CKFdwipKx2x0lNKX-4o1l/view" target="_blank">
     <img width="200" src="screenshots/0-logo.png">
   </a>
- <center><H1>RedNose</H1></center>
- </p>
+</p>
+<center><H1>RedNose</H1></center>
 
 ## Introduction
 ### TRACK COVID-19 AT WORLD WIDE
