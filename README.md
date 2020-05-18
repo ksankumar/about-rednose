@@ -3,7 +3,7 @@
     <img width="200" src="screenshots/0-logo.png">
   </a>
 </p>
-<center><H1>RedNose</H1></center>
+<H1 align="center">RedNose</H1>
 
 ## Introduction
 ### TRACK COVID-19 AT WORLD WIDE
@@ -23,12 +23,10 @@ Displaying covid-19 cases world wide and device located country
 
 |Splash screen | Home page | Country search |
 |--------------|------------|-------------|
-
 | <img src="screenshots/0-splash.png" width="350" title="Splash" style="width:320px;height:568px">| <img src="screenshots/1-landing.png" width="350" title="Home" style="width:320px;height:568px"> | <img src="screenshots/7-searchcountry.png" width="350" title="Search country" style="width:320px;height:568px"> 
 
 |LeftMenu | Selected Country |
 |--------------|------------|
-
 | <img src="screenshots/16-leftmenu.png" width="350" title="Left Menu" style="width:320px;height:568px"> | <img src="screenshots/3-selectedcountry.png" width="350" title="Left menu" style="width:320px;height:568px">
 
 ### Particular Country details(USA)
